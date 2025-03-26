@@ -32,7 +32,9 @@ Installation
         
 *   **Install Required Libraries**:
     
-    *   Install the libraries NimBLEDevice + ArduinoJson
+    *   Install the libraries Blynk V0.6.1 + NTPClient 
+    *   
+    *   Install the libraries NimBLEDevice + ArduinoJson V6
  
     *   All others are included in the IDE by default
  
