@@ -8,7 +8,7 @@ Original repository Arduino_JKBMS Ble https://github.com/peff74/Arduino-jk-bms
 
 Scan picture to clone the project widget for blynk legacy here 
 
-![Sample Image](clone_433363061.png)
+![Sample Image](clone.jpg)![Sample Image](clone_433363061.png)
 
 ## Features
 *   **Real-time Monitoring**:
