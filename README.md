@@ -54,11 +54,6 @@ Installation
     
     *   After the upload, the ESP32 will connect to your Wi-Fi and the IP will be displayed in the serial monitor.
         
-    *   Open a web browser and navigate to the IP address of the ESP32.
- 
-    *   A small error message appears that no Index.html was found
- 
-    *   Follow the link or use http://IP/fs to upload index.html + style.css to the ESP32
  
 ## Examples
 
