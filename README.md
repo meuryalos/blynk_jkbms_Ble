@@ -4,9 +4,11 @@ This project is a modified version of [syssi/esphome-jk-bms](https://github.com/
 
 
 Original repository Arduino_JKBMS Ble https://github.com/peff74/Arduino-jk-bms
+![ESP32 Image](ESP32-Front-Back.webp)
 
+Scan picture to clone the project widget for blynk legacy here 
 
-Scan picture to clone the project widget for blynk legacy here https://github.com/meuryalos/blynk_jkbms_Ble/blob/main/clone_433363061.png
+![Sample Image](clone_433363061.png)
 
 ## Features
 *   **Real-time Monitoring**:
