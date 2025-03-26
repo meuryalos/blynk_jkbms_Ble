@@ -2,7 +2,7 @@
 
 This project is a modified version of [syssi/esphome-jk-bms](https://github.com/syssi/esphome-jk-bms/), rewritten for Arduino using NimBLE.
 
-Scan picture to clone the project widget for blynk legacy
+Scan picture to clone the project widget for blynk legacy here https://github.com/meuryalos/blynk_jkbms_Ble/blob/main/clone_433363061.png
 
 ## Features
 *   **Real-time Monitoring**:
