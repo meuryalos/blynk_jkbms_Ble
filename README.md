@@ -50,7 +50,7 @@ Installation
         
     *   Upload the sketch to the ESP32.
         
-*   **Access the Web Interface**:
+*   **Debug serial monitor**:
     
     *   After the upload, the ESP32 will connect to your Wi-Fi and the IP will be displayed in the serial monitor.
         
