@@ -20,7 +20,7 @@ Installation
 
 *   **Get startet**:
 
-    *   copy index.html + style.css + jk-bms.ino local
+    *   copy jk-bms.ino local
     
 *   **Open the Project in Arduino IDE**:
     
